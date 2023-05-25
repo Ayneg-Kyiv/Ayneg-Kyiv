@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Ayneg-Kyiv
+- 👀 I’m interested in Programming and games
+- 🌱 I’m currently learning c++
+- glad to take any advise what to learn to be relevant in programmig. 
